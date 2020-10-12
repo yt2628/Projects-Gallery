@@ -4,12 +4,9 @@ Welcome! My name is Eva Tao, currently a Master's student in the Measurement and
 
 You can take a look at some of my past projects:
 ### Individual Projects
-* [Natural Language Processing](https://github.com/yt2628/Natural-Language-Processing)
-- Through natural language processing, we can shed light on prevailing topics, sentiments, etc. in students' notes, with visualizations.
-* [Neural Networks](https://github.com/yt2628/Neural-Networks)
-- A neural network that predicts whether or not a student is paying attention in class, based on data of webcam images.
-* [Collaborative Filtering Recommender System](https://github.com/yt2628/Recommender-Systems-Collaborative-Filter)
-- Use collaborative filtering to recommend a suitable "next topic to study" for students to work on
+* [Natural Language Processing](https://github.com/yt2628/Natural-Language-Processing) - Through natural language processing, we can shed light on prevailing topics, sentiments, etc. in students' notes, with visualizations.
+* [Neural Networks](https://github.com/yt2628/Neural-Networks) - A neural network that predicts whether or not a student is paying attention in class, based on data of webcam images.
+* [Collaborative Filtering Recommender System](https://github.com/yt2628/Recommender-Systems-Collaborative-Filter) - Use collaborative filtering to recommend a suitable "next topic to study" for students to work on
 
 ### Group Projects
 
